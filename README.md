@@ -1,6 +1,6 @@
 In	this	project	I created	tab	bar	application	with	2	tabs.	
 
-The	first	tab	present	the	following	information:	
+The	first	tab	presents	the	following	information:	
 • My	name	
 • The	current	Date	and	Time	(should	be updated	dynamically	every	second)	
 • An	Empty	label	
